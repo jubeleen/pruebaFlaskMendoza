@@ -18,3 +18,17 @@ para instalar las dependencias:
 ```
 pip install flask
 ```
+
+## Para corrrer el programa
+
+Solo la maquina local :
+
+```
+flask run
+```
+
+Desde cualquier maquina de la red :
+
+```
+flask run -h 0.0.0.0
+```
