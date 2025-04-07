@@ -32,3 +32,9 @@ Desde cualquier maquina de la red :
 ```
 flask run -h 0.0.0.0
 ```
+
+## para correr el debuger
+
+```
+flask run --debug
+```
